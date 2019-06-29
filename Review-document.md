@@ -30,3 +30,8 @@ Proprioceptive view:
 
 
 Finally, we can use simulations of individual neurons in a connectome model or individual organisms in an agent-based model to see the consequences of the developmental process with respect to behavior.
+
+
+Examples from the literature:  
+Pujala and Koyama (2019). [Chronology-based architecture of descending circuits that underlie the development of 
+locomotor repertoire after birth](https://elifesciences.org/articles/42135). _eLife_, 8, e42135. doi:10.7554/eLife.42135  
