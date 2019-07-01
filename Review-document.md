@@ -42,6 +42,8 @@ Visualization: [https://wormguides.org/](WORMguides)
 
 Stern, Kirst, and Bargmann (2017). [Neuromodulatory Control of Long-Term Behavioral Patterns and Individuality across Development](https://docs.wixstatic.com/ugd/10602d_a6a22521ca0843bbb5ba74f2374166c4.pdf). _Cell_, 171, 1–14.  
 
+Wyart, C. and Thirumalai, V. (2019). [Building behaviors, one layer at a time](https://elifesciences.org/articles/46375). _eLife_, 8, e46375. doi:10.7554/eLife.46375.
+
 ## Basic Network Concepts and Similar Work:  
 [Pavak Shah](https://scholar.google.com/citations?user=-isvl7kAAAAJ&hl=en), Memorial Sloan Kettering.  
 
