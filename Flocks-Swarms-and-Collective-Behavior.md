@@ -39,21 +39,21 @@
 </p>
 
 <p align="center">
-  <img width="960" height="540" src="https://user-images.githubusercontent.com/2716218/30246382-f6f5aaea-95bd-11e7-9fa3-b7df00c296e0.jpg">
+  <img width="960" height="540" src="https://github.com/devoworm/Emergent-Behavior/blob/master/Slides/Slide11.png">
 </p>
 
 <p align="center">
-  <img width="960" height="540" src="https://user-images.githubusercontent.com/2716218/30246382-f6f5aaea-95bd-11e7-9fa3-b7df00c296e0.jpg">
+  <img width="960" height="540" src="https://github.com/devoworm/Emergent-Behavior/blob/master/Slides/Slide12.png">
 </p>
 
 <p align="center">
-  <img width="960" height="540" src="https://user-images.githubusercontent.com/2716218/30246382-f6f5aaea-95bd-11e7-9fa3-b7df00c296e0.jpg">
+  <img width="960" height="540" src="https://github.com/devoworm/Emergent-Behavior/blob/master/Slides/Slide13.png">
 </p>
 
 <p align="center">
-  <img width="960" height="540" src="https://user-images.githubusercontent.com/2716218/30246382-f6f5aaea-95bd-11e7-9fa3-b7df00c296e0.jpg">
+  <img width="960" height="540" src="https://github.com/devoworm/Emergent-Behavior/blob/master/Slides/Slide14.png">
 </p>
 
 <p align="center">
-  <img width="960" height="540" src="https://user-images.githubusercontent.com/2716218/30246382-f6f5aaea-95bd-11e7-9fa3-b7df00c296e0.jpg">
+  <img width="960" height="540" src="https://github.com/devoworm/Emergent-Behavior/blob/master/Slides/Slide15.png">
 </p>
