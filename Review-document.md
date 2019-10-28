@@ -14,6 +14,28 @@ ion channel function across development.
 
 3) stochastic movements that range from goal-directed to quasi-goal-directed.
 
+## "Collective" vs. "cumulative" behavior:
+
+Cumulative culture: Nature Communications, 8, 15049 (2017).
+
+* collective intelligence + intelligence (knowlege accumulation).
+
+Cumulative behavior: locations for behavior of many individuals:
+
+1) asynchronous.
+
+2) uncoordinated.
+
+3) not interconnected (directly).
+
+4) shaped by forces extenal to the group.
+
+* instead of "swarms", we talk of "assemblages".
+
+* can involve social or asocial species.
+
+* examples: graffiti tags on a bridge abutment, watering hole congregation.
+
 ## Examples from collective behavior
 Next is an example of emergent behavior for models such as boids or examples where there are multiple agents that must coordinate their behavior towards a collective goal. In this case, we are asking whether or not conventional means for regulating collective behavior still hold true when the individual properties of organismal nervous systems are taken into account.
 
